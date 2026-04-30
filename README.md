@@ -20,7 +20,6 @@ For Windows users who want to experience the engine immediately:
 ## 📸 Interactive Viewport
 The engine renders complex reflections, shadows, and global illumination in real-time. 
 
-*(Tip: Upload your screenshot to GitHub and replace this line with the image link!)*
 
 ---
 
